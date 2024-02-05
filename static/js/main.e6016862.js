@@ -8355,8 +8355,8 @@ function(e, t, n) {
             to: "https://uptimerobot.com/",
             text: "UptimeRobot"
         }), " \u63a5\u53e3\u5236\u4f5c\uff0c\u68c0\u6d4b\u9891\u7387 5 \u5206\u949f"), o.a.createElement("p", null, "\xa9 2024 ", o.a.createElement(l, {
-            to: "/",
-            text: "由 星辰云 制作"
+            to: "java2077.top",
+            text: "Java2077.top"
         }))))
     };
     function c(e, t) { (null == t || t > e.length) && (t = e.length);
